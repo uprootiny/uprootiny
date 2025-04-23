@@ -17,13 +17,6 @@ We design systems at the intersection of mathematical modeling, machine learning
    :llm-infrastructure    ["Inference Optimization" "Fine-tuning Pipelines" "Traceable Systems"]
    :system-design         ["Low-coupling" "Observable" "Composition-first"]})
 
-## 🔬 Expertise
-
-```clojure
-(def specializations
-  {:computational-methods ["Statistical Modeling" "Non-Bayesian Inference" "Causal Analysis"]
-   :llm-infrastructure    ["Inference Optimization" "Fine-tuning Pipelines" "Traceable Systems"]
-   :system-design         ["Low-coupling" "Observable" "Composition-first"]})
 ```
 
 ## 🛠️ Technical Toolkit
