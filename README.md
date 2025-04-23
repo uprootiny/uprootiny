@@ -17,15 +17,6 @@ We design systems at the intersection of mathematical modeling, machine learning
    :llm-infrastructure    ["Inference Optimization" "Fine-tuning Pipelines" "Traceable Systems"]
    :system-design         ["Low-coupling" "Observable" "Composition-first"]})
 
-```markdown
-```⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿```
-# Pavel Vasilyev
-### Computational Mathematician & LLM Infrastructure Engineer
-
-> "Precision, pattern, and possibility — folded into code."
-
-I design systems at the intersection of mathematical modeling, machine learning infrastructure, and cloud architecture. My work focuses on building robust, composable tools that bridge theoretical foundations with practical implementation.
-
 ## 🔬 Expertise
 
 ```clojure
